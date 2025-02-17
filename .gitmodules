@@ -1,0 +1,3 @@
+[submodule "demo-attendance"]
+	path = demo-attendance
+	url = https://github.com/Nikunja0611/demo-attendance
